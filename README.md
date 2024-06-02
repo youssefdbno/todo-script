@@ -40,4 +40,28 @@ Pour installer `figlet` et `lolcat`, utilisez les commandes suivantes :
 sudo apt-get install figlet
 sudo gem install lolcat
 
-Ces commandes installeront les programmes requis pour exécuter le code avec succès.
+Utilisation
+
+Pour exécuter le script, utilisez la commande suivante dans le terminal :
+./todo.sh
+
+Exemple d'Utilisation
+
+Lorsque vous exécutez le script, un menu interactif apparaîtra avec les options suivantes :
+=====================================
+TODO Menu
+=====================================
+1. Create a new task
+2. Update an existing task
+3. Delete a task
+4. Show information about a task
+5. List tasks of a given day
+6. Search for a task by title
+7. Display today's tasks
+8. Exit
+=====================================
+Choose an option [1-8]:
+
+Auteurs
+
+    HESSANI Youssef
